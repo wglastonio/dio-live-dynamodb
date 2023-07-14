@@ -29,6 +29,26 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Cranberries"},
+                  "SongTitle": {"S": "Linger"},
+                  "AlbumTitle": {"S": "Everybody Else Is Doing It, So Why Can't We?"},
+                  "SongYear": {"S": "1993"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Cranberries"},
+                  "SongTitle": {"S": "Zombie"},
+                  "AlbumTitle": {"S": "No Need to Argue"},
+                  "SongYear": {"S": "1994"}
+                }
+            }
         }
       ]
 }
